@@ -15,4 +15,5 @@ php artisan make:auth
 php artisan key:generate
 
 npm install
+npm run dev
 ```
