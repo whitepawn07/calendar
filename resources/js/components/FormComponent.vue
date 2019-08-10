@@ -26,7 +26,7 @@
                         <template v-slot:activator="{on}">
                             <v-text-field
                             v-on="on"
-                            label="Picker in menu"
+                            label="Date From"
                             v-model="datefrom"
                             prepend-icon="event"
                             readonly
@@ -49,7 +49,7 @@
                         <template v-slot:activator="{on}">
                             <v-text-field
                             v-on="on"
-                            label="Picker in menu"
+                            label="Date To"
                             v-model="dateto"
                             prepend-icon="event"
                             readonly

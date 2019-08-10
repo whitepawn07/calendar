@@ -55917,7 +55917,7 @@ var render = function() {
                                 _vm._g(
                                   {
                                     attrs: {
-                                      label: "Picker in menu",
+                                      label: "Date From",
                                       "prepend-icon": "event",
                                       readonly: ""
                                     },
@@ -55995,7 +55995,7 @@ var render = function() {
                                 _vm._g(
                                   {
                                     attrs: {
-                                      label: "Picker in menu",
+                                      label: "Date To",
                                       "prepend-icon": "event",
                                       readonly: ""
                                     },
