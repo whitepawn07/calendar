@@ -6,8 +6,7 @@
  eventdb
 ```
 ## Installation
-    just import the attached database or create database using eventdb as the name then 
-    run php artisan migrate
+    just import the attached database or create database using eventdb as the name
 
 ```bash
 php artisan passport:install
